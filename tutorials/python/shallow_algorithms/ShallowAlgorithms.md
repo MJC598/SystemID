@@ -1,1 +1,0 @@
-## Shallow Algorithms Readme
